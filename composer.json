@@ -4,7 +4,7 @@
     "description": "PHP wrapper for interacting with the AutopilotHQ API.",
     "homepage": "https://github.com/kolinko-ant/php-autopilothq",
     "keywords": ["kolinko-ant", "autopilothq", "autopilot"],
-    "version": "0.1.1",
+    "version": "0.1.3",
     "license": "MIT",
     "authors": [
         {
