@@ -1,15 +1,15 @@
 {
-    "name": "picr/php-autopilothq",
+    "name": "kolinko-ant/php-autopilothq",
     "type": "library",
     "description": "PHP wrapper for interacting with the AutopilotHQ API.",
-    "homepage": "https://github.com/finicprint/php-autopilothq",
-    "keywords": ["picr", "autopilothq", "autopilot"],
+    "homepage": "https://github.com/kolinko-ant/php-autopilothq",
+    "keywords": ["kolinko-ant", "autopilothq", "autopilot"],
     "version": "0.1.1",
     "license": "MIT",
     "authors": [
         {
-            "name": "John O",
-            "email": "ruskiyos@gmail.com"
+            "name": "Anton Kolinko",
+            "email": "kolinko.ant@gmail.com"
         }
     ],
     "require": {
